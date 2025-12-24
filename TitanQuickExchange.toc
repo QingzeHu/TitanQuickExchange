@@ -1,0 +1,6 @@
+## Interface: 11505
+## Title: Titan Quick Exchange
+## Notes: Right-click to exchange Titan Embers in stacks, with bulk mode UI.
+## Author: Qingze
+## Version: 1.0.0
+TitanQuickExchange.lua
